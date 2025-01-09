@@ -10,4 +10,5 @@ html_theme_options = {
 }
 ```
 
-The default value for this configuration option is `True`.
+The default value for this configuration option is `True`.run
+
